@@ -1,4 +1,4 @@
-# BD2_dwi_preproc
+# EDC_dwi_preproc
 
 Instructions:
 1. Ensure FSL, freesurfer, and MATLAB are all installed.
